@@ -1,0 +1,2 @@
+com/cha/test/springboot/springboot/web/HelloControllerTest.java
+ com.cha.test.springboot.springboot.web.HelloControllerTest
